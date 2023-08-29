@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Genralhimanshu
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning DSA .
 
 
 
